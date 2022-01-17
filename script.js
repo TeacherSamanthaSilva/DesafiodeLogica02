@@ -19,3 +19,4 @@ if(mesNascimento == 12 || mesNascimento == 01){
 }else{
     console.log("você nasceu em qualquer um dos meses do ano")
 }
+
